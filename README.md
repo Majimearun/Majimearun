@@ -2,10 +2,10 @@
     
 ```python
 Arunachala = { 
-    "Age" : 18,
-    "Status" : "Undergraduate",
+    "Age" : 17,
+    "Status" : "High School Student",
     "Interests" : ["Artificial Intelligence 🧠", "Data Science 📈", "Anime 📺"],
-    "Languages (Preferred)" : ["Python", "C++", "Julia"],
+    "Languages (Preferred)" : ["Python", "C++"],
     "Hobbies" : ["Competitive Programming 💻", "Volleyball 🏐"],
     "Learning" : ["NLP 📜", "Video Game Programming 👾"],
     "Editor" : "VSCode",
@@ -36,14 +36,13 @@ Arunachala = {
 <a href='https://keras.io/' target="blank"><img src="svgs/keras.svg" alt="" height = 50 width = 50/></a>&nbsp&nbsp&nbsp&nbsp
 <a href='https://www.tensorflow.org/' target="blank"><img src="svgs/tf.svg" alt="" height = 50 width = 50 /></a>&nbsp&nbsp&nbsp&nbsp
 <a href='https://skorch.readthedocs.io/en/stable/' target="blank"><img src="svgs/skorch.png" alt="" height = 50 width = 50/></a>&nbsp&nbsp&nbsp&nbsp
-<a href='https://www.pytorchlightning.ai/' target="blank"><img src="svgs/pylight.png" alt="" height = 50 width = 50/></a>&nbsp&nbsp
-<a href='https://neptune.ai/' target="blank"><img src="svgs/neptune.png" alt="" height = 50 width = 90/></a>&nbsp
-<a href='https://jupyter.org/' target="blank"><img src="svgs/jupyter.svg" alt="" height = 50 width = 50/></a>&nbsp&nbsp&nbsp&nbsp
+<!-- <a href='https://www.pytorchlightning.ai/' target="blank"><img src="svgs/pylight.png" alt="" height = 50 width = 50/></a>&nbsp&nbsp -->
 <a href='https://scikit-learn.org/' target="blank"><img src="svgs/sklearn.svg" alt="" height = 60 width = 80/></a>&nbsp&nbsp&nbsp&nbsp
 <a href='https://plotly.com/' target="blank"><img src="svgs/plotly.svg" alt="" height = 50 width = 50 /></a>&nbsp&nbsp&nbsp&nbsp
 <a href='https://www.cplusplus.com/' target="blank"><img src="svgs/cplusplus.svg" alt="" height = 50 width = 50/></a>&nbsp&nbsp&nbsp&nbsp
-<a href='https://julialang.org/' target="blank"><img src="svgs/julia.svg" alt="" height = 50 width = 50/></a>&nbsp&nbsp&nbsp&nbsp
-<a href='https://powerbi.microsoft.com/en-us/' target="blank"><img src="svgs/powerbi.svg" alt="" height = 50 width = 50 /></a>
+<a href='https://julialang.org/' target="blank"><img src="svgs/julia.svg" alt="" height = 50 width = 50/></a>&nbsp&nbsp&nbsp
+<a href='https://neptune.ai/' target="blank"><img src="svgs/neptune.png" alt="" height = 50 width = 90/></a>&nbsp
+<a href='https://jupyter.org/' target="blank"><img src="svgs/jupyter.svg" alt="" height = 50 width = 50/></a>&nbsp&nbsp&nbsp&nbsp
 
 </div>
 <br>
