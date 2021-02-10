@@ -52,7 +52,7 @@ Arunachala = {
 <div align='center'>
 <a href='https://spacy.io/' target="blank"><img src="svgs/pytorch.svg" alt="" height = 80 width = 150/></a>&nbsp&nbsp&nbsp&nbsp
 <a href='https://spacy.io/' target="blank"><img src="svgs/spacy.svg" alt="" height = 80 width = 120/></a>&nbsp&nbsp&nbsp&nbsp
-<a href='https://www.mongodb.com/' target="blank"><img src="svgs/mongodb.svg" alt="" height = 90 width = 170/></a>&nbsp&nbsp&nbsp&nbsp
+<a href='https://www.mongodb.com/' target="blank"><img src="svgs/mongodb.svg" alt="" height = 90 width = 170/></a>&nbsp&nbsp
 <a href='https://unity.com/' target="blank"><img src="svgs/unity.svg" alt="" height = 85 width = 170/></a>&nbsp&nbsp&nbsp&nbsp
 <a href='https://unity.com/' target="blank"><img src="svgs/swift.svg" alt="" height = 85 width = 170/></a>
 
