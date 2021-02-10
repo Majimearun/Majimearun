@@ -19,7 +19,7 @@ Arunachala = {
 <br>
 <div align = "center">
 <a href = "https://github.com/Majimearun/artificial-bi">
-<img src='https://img.shields.io/static/v1?label=ai&message=artificial%20business%20intelligence&color=999999&style=for-the-badge&logo=python&logoColor=white' />
+<img src='https://img.shields.io/static/v1?label=ai&message=artificial%20Data%20scientist&color=999999&style=for-the-badge&logo=python&logoColor=white' />
 </a>
 <br>
 <a href = "https://github.com/Majimearun/covid-19-data-science-project">
