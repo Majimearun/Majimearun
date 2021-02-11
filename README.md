@@ -40,9 +40,8 @@ Arunachala = {
 <a href='https://www.python.org/' target="blank"><img   src="svgs/python.svg" alt="" height = 50 width = 50/></a>&nbsp&nbsp&nbsp&nbsp
 <a href='https://www.cplusplus.com/' target="blank"><img   src="svgs/cplusplus.svg" alt="" height = 50 width = 50/></a>&nbsp&nbsp&nbsp&nbsp
 <a href='https://julialang.org/' target="blank"><img   src="svgs/julia.svg" alt="" height = 50 width = 50/></a>&nbsp&nbsp&nbsp&nbsp
-<a href='https://swift.org/' target="blank"><img   src="svgs/swift.svg" alt="" height = 50 width = 50/></a>&nbsp&nbsp&nbsp&nbsp
 <a href='https://www.haskell.org/' target="blank"><img   src="svgs/haskell.svg" alt="" height = 50 width = 50/></a>&nbsp&nbsp&nbsp&nbsp
-
+<a href='https://jupyter.org/' target="blank"><img   src="svgs/jupyter.svg" alt="" height = 50 width = 50/></a>
 
 
 </div>
