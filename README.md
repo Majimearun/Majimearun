@@ -5,10 +5,9 @@ Arunachala = {
     "Age" : 17,
     "Status" : "High School Student",
     "Interests" : ["Artificial Intelligence 🧠", "Data Science 📈", "Anime 📺"],
-    "Languages (Preferred)" : ["Python", "C++"],
+    "Preferences" : {"Langauges":["Python", "C++"],"OS" : "Manjaro", "Editor" : "VSCode"}
     "Hobbies" : ["Competitive Programming 💻", "Volleyball 🏐"],
-    "Learning" : ["NLP 📜", "Video Game Programming (Unity) 👾"],
-    "Editor" : "VSCode",
+    "Learning" : ["NLP 📜", "Video Game Programming 👾"],
     "Looking for (Partner)" : "Web/App Developer"
 }    
 ``` 
@@ -44,9 +43,7 @@ Arunachala = {
 <a href='https://swift.org/' target="blank"><img style = "padding-bottom: 20px;" src="svgs/swift.svg" alt="" height = 50 width = 50/></a>&nbsp&nbsp&nbsp&nbsp
 <a href='https://www.haskell.org/' target="blank"><img style = "padding-bottom: 20px;" src="svgs/haskell.svg" alt="" height = 50 width = 50/></a>&nbsp&nbsp&nbsp&nbsp
 <a href='https://jupyter.org/' target="blank"><img style = "padding-bottom: 20px;" src="svgs/jupyter.svg" alt="" height = 50 width = 50/></a>&nbsp
-<a href='https://neptune.ai/' target="blank"><img style = "padding-bottom: 20px;" src="svgs/neptune.png" alt="" height = 50 width = 90/></a>&nbsp
-<a href='https://manjaro.org/' target="blank"><img style = "padding-bottom: 20px;" src="svgs/manjaro.svg" alt="" height = 50 width = 50/></a>
-
+<a href='https://neptune.ai/' target="blank"><img style = "padding-bottom: 20px;" src="svgs/neptune.png" alt="" height = 50 width = 90/></a>
 
 
 </div>
