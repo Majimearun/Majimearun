@@ -5,7 +5,7 @@ Arunachala = {
     "Age" : 17,
     "Status" : "High School Student",
     "Interests" : ["Artificial Intelligence 🧠", "Data Science 📈", "Anime 📺"],
-    "Preferences" : {"Langauges":["Python", "C++"],"OS" : "Manjaro", "Editor" : "VSCode"}
+    "Preferences" : {"Langauges":["Python", "C++"],"OS" : "Manjaro", "Editor" : "VSCode"},
     "Hobbies" : ["Competitive Programming 💻", "Volleyball 🏐"],
     "Learning" : ["NLP 📜", "Video Game Programming 👾"],
     "Looking for (Partner)" : "Web/App Developer"
