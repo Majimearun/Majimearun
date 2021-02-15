@@ -6,7 +6,7 @@ Arunachala = {
     "Status" : "High School Student",
     "Interests" : ["Artificial Intelligence 🧠", "Data Science 📈", "Anime 📺"],
     "Preferences" : {
-        "Langauges":["Python", "C++"],
+        "Languages":["Python", "C++"],
         "OS" : "Manjaro", 
         "Editor" : "VSCode"
         },
