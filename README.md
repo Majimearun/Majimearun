@@ -38,7 +38,6 @@ Arunachala = {
 <a href='https://keras.io/' target="blank"><img   src="svgs/keras.svg" alt="" height = 50 width = 50/></a>&nbsp&nbsp&nbsp&nbsp
 <a href='https://www.tensorflow.org/' target="blank"><img   src="svgs/tf.svg" alt="" height = 50 width = 50 /></a>&nbsp&nbsp&nbsp&nbsp
 <a href='https://skorch.readthedocs.io/en/stable/' target="blank"><img   src="svgs/skorch.png" alt="" height = 50 width = 50/></a>&nbsp&nbsp&nbsp&nbsp
-<a href='https://scikit-learn.org/' target="blank"><img   src="svgs/sklearn.svg" alt="" height = 60 width = 80/></a>&nbsp&nbsp&nbsp&nbsp
 <a href='https://fluxml.ai/' target="blank"><img   src="svgs/flux.png" alt="" height = 60 width = 60/></a>&nbsp&nbsp&nbsp&nbsp
 <a href='https://plotly.com/' target="blank"><img   src="svgs/plotly.svg" alt="" height = 50 width = 50 /></a>&nbsp&nbsp&nbsp&nbsp
 <a href='https://www.python.org/' target="blank"><img   src="svgs/python.svg" alt="" height = 50 width = 50/></a>&nbsp&nbsp&nbsp&nbsp
